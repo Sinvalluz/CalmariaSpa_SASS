@@ -249,7 +249,7 @@ header #home .img-home img {
   font-weight: bold;
 }
 #contatos .contatos-form .inputs .btn {
-  background: #CAD4FA;
+  background: #4e75ff;
   margin-top: 2rem;
   color: white;
   font-size: 1rem;
@@ -257,7 +257,7 @@ header #home .img-home img {
   transition: 0.3s;
 }
 #contatos .contatos-form .inputs .btn:hover {
-  background: #4e75ff;
+  background: #85a0ff;
   cursor: pointer;
 }
 
